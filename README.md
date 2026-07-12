@@ -11,7 +11,8 @@
 ## 🏗️ 技術架構
 - **語言**：C#
 - **UI框架**：WPF
-- **框架**：.NET Framework
+- **IDE**：Visual Studio 2022
+- **框架**：.NET Framework 4.7.2
 - **架構模式**：MVVM + MVP
 - **資料處理**：自製CSV Reader/Writer Library
 
